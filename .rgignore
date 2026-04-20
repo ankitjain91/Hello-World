@@ -1,0 +1,10 @@
+.git/
+node_modules/
+.venv/
+.venv-build/
+__pycache__/
+build/
+dist/
+.claude/
+*.pyc
+*.pyo
